@@ -8,7 +8,6 @@ Welcome to **BEW**, your cozy online corner for everything coffee! This is a res
 - 📖 About Us section with the BEW story
 - 🧾 Dynamic Menu showcasing our drinks and snacks
 - 📍 Location and Contact info
-- 📨 Contact form for inquiries
 - 📱 Fully responsive design
 - 🎨 Modern UI/UX with smooth animations
 
